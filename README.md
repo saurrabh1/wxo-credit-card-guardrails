@@ -1,5 +1,8 @@
 # Credit Card Guardrails Agent
 
+**Demo Video:**
+<a href="https://youtu.be/gahk10EjLHA"><img src="https://img.youtube.com/vi/gahk10EjLHA/hqdefault.jpg" width="600" alt="Watch Demo Video"/></a>
+
 A watsonx Orchestrate agent demonstrating security guardrails through credit card number redaction using pre-invoke plugins.
 
 ## Overview
